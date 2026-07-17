@@ -159,11 +159,11 @@ function App() {
           </div>
         </div>
         <div className="toprail">
-          <span className="pill" title="Current status">
+          <span className="pill status-pill" title="Current status">
             <span className="dot"></span>
             {profile.status}
           </span>
-          <span className="pill" aria-label="Local time">
+          <span className="pill clock-pill" aria-label="Local time">
             <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
               <circle cx="12" cy="12" r="9"/>
               <path d="M12 7v5l3 2"/>
