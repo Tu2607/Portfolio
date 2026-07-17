@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vu;Tu;;;
+FN:Tu Vu
+TITLE:Software Engineer
+ORG:Puppet by Perforce
+EMAIL;TYPE=INTERNET,WORK:tuvu2607@gmail.com
+TEL;TYPE=CELL:+1-503-516-5802
+ADR;TYPE=HOME:;;;Portland;OR;;United States
+URL;TYPE=WORK:https://www.linkedin.com/in/tu-vu-2607
+URL;TYPE=HOME:https://github.com/Tu2607
+NOTE:Software engineer focused on backend systems, platform engineering, infrastructure automation, developer tooling, and security compliance.
+END:VCARD
