@@ -201,16 +201,16 @@ export const projects = [
     url: "https://github.com/Tu2607/local_chatbot",
   },
   {
-    title: "codex-cleaner",
-    desc: "Spec-driven CLI that scrubs AI-generated coding artifacts and keeps project hygiene tight.",
+    title: "codebase-indexer",
+    desc: "MCP server that indexes codebases for fast, structured retrieval by AI coding agents.",
     tags: [
-      { label: "CLI",         tone: "amber" },
-      { label: "Dev tools",   tone: "sage" },
-      { label: "Spec-driven", tone: "rose" },
+      { label: "MCP",       tone: "amber" },
+      { label: "Indexing",  tone: "sage" },
+      { label: "Dev tools", tone: "rose" },
     ],
-    lang: { label: "Node · TS", swatch: "cli" },
+    lang: { label: "Python", swatch: "python" },
     active: true,
-    url: "https://github.com/Tu2607/codex-cleaner",
+    url: "https://github.com/Tu2607/codebase-indexer",
   },
 ];
 
