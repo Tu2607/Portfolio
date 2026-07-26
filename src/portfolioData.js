@@ -184,7 +184,7 @@ export const projects = [
     ],
     lang: { label: "Go", swatch: "go" },
     active: true,
-    url: "http://163.192.32.31",
+    url: "https://find-ten.tuvu.dedyn.io",
     cta: "Play now",
     liveApp: true,
   },
